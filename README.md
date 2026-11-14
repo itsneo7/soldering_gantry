@@ -85,4 +85,4 @@
  * - MAX_POINTS (Default: 50):
  *   Maximum number of coordinate rows allowed in the Auto Mode web table.
  *   -> Increase if you are soldering large boards with more than 50 joints.
- * 
+   
