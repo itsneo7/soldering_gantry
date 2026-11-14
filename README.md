@@ -1,9 +1,8 @@
-/*
 
  * MOTION TUNING GUIDE 
 
  * 1. HOW MICROSTEPPING WORKS & STEPS PER REVOLUTION
- * --------------------------------------------------------------------------------------
+
  * - A standard NEMA 23 stepper motor has a 1.8° step angle.
  * - Full steps per revolution = 360° / 1.8° = 200 full steps.
  * - Microstepping divides each full step into smaller sub-steps by varying current 
@@ -87,5 +86,3 @@
  *   Maximum number of coordinate rows allowed in the Auto Mode web table.
  *   -> Increase if you are soldering large boards with more than 50 joints.
  * 
- * ======================================================================================
- */
